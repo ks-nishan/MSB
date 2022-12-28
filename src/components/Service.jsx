@@ -3,6 +3,7 @@ import styled from "styled-components";
 import women from "../img/women.png";
 import MiniCard from "./MiniCard";
 import Play from "../img/play.png";
+import video from "../img/video1.mp4";
 
 const Container = styled.div`
   display: flex;
